@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+void set_${1:} (${2:} ${1:})
+{
+	${1:}_ = ${1:}; 	
+} 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>set</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
